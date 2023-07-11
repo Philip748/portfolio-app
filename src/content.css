@@ -1,0 +1,113 @@
+body {
+    background-color: rgb(188, 255, 215);
+    overflow-x: hidden;
+}
+
+.contentDiv{
+    background-color: rgba(72, 72, 72, 0);
+    width: 100vw;
+    height: fit-content;
+    min-height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#aboutMeDiv{
+    font-family: monospace;
+    font-size: 22px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.textP{
+    width: 60vw;
+    text-align: justify;
+    text-align-last: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#CVInput{
+    background-color: rgb(96, 196, 126);
+    width: 200px;
+    height: 40px;
+    border: none;
+    font-size: 25px;
+    font-family: monospace;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+#CVInput:hover{
+    background-color: rgb(124, 255, 163);
+    cursor: pointer;
+}
+
+#projectsDiv{
+    margin-top: 0px;
+    text-align: center;
+    background-color: rgb(162, 221, 185);
+}
+
+#contactMeDiv{
+    text-align: center;
+}
+
+.contactInput{
+    background-color: rgb(251, 251, 251);
+    color: rgb(0, 0, 0);
+    width: 45%;
+    height: 30px;
+    font-size: 15px;
+    font-family: monospace;
+    border: none;
+}
+
+#topRowDiv{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#nameInput{
+    float: left;
+}
+
+#emailInput{
+    float: right;
+}
+
+#otherRowDiv{
+    width: 90%;
+    margin-left: 5%;
+}
+
+#messageInput{
+    width: 99%;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    margin-top: 10px;
+}
+
+#sendEmailButton{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    background-color: rgb(96, 196, 126);
+    width: 200px;
+    height: 40px;
+    border: none;
+    font-size: 25px;
+    font-family: monospace;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+}
+
+#sendEmailButton:hover{
+    background-color: rgb(124, 255, 163);
+    cursor: pointer;
+}
