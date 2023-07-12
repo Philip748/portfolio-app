@@ -124,6 +124,7 @@ body {
     .textP{
         width: 75vw;
         text-align: left;
+        text-align-last: left;
     }
 
     #nameInput{
