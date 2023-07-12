@@ -17,7 +17,7 @@ function content() {
             
                 <p className="textP">For more details see my CV below.</p>
 
-                <form action='http://www.philipcoffey.co.uk/CV.pdf' target="_blank">
+                <form action='https://www.philipcoffey.co.uk/CV.pdf' target="_blank">
                     <input id="CVInput" type="submit" value="View my CV" />
                 </form>
             </div>
