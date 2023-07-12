@@ -129,12 +129,11 @@ body {
     #nameInput{
         float: left;
         margin-bottom: 5px;
-        width: 100%;
+        width: 90%;
     }
     
     #emailInput{
-        float: right;
         float: left;
-        width: 100%;
+        width: 90%;
     }
 }
