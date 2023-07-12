@@ -111,3 +111,13 @@ body {
     background-color: rgb(124, 255, 163);
     cursor: pointer;
 }
+
+@media (pointer:none), (pointer:coarse){
+    #sendEmailButton{
+        font-size: 20px;
+    }
+
+    #aboutMeDiv{
+        font-size: 14px;
+    }
+}

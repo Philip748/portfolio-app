@@ -10,3 +10,9 @@
   color: rgb(236, 255, 236);
   background-color: rgb(96, 196, 126);
 }
+
+@media (pointer:none), (pointer:coarse){
+  #titleDiv{
+    font-size: 30px;
+  }
+}
