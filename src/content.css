@@ -123,5 +123,18 @@ body {
 
     .textP{
         width: 75vw;
+        text-align: left;
+    }
+
+    #nameInput{
+        float: left;
+        margin-bottom: 5px;
+        width: 100%;
+    }
+    
+    #emailInput{
+        float: right;
+        float: left;
+        width: 100%;
     }
 }
