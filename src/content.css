@@ -120,4 +120,8 @@ body {
     #aboutMeDiv{
         font-size: 14px;
     }
+
+    .textP{
+        width: 75vw;
+    }
 }
